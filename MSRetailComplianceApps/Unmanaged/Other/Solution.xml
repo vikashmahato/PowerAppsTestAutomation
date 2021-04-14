@@ -3,21 +3,21 @@
   <SolutionManifest>
     <UniqueName>MSRetailComplianceApps</UniqueName>
     <LocalizedNames>
-      <LocalizedName description="M&amp;S Retail  Compliance Apps" languagecode="1033" />
+      <LocalizedName description="MS Retail Compliance Apps" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.106</Version>
+    <Version>1.0.0.2</Version>
     <Managed>0</Managed>
     <Publisher>
-      <UniqueName>Cr88b0a</UniqueName>
+      <UniqueName>Cr9ef4b</UniqueName>
       <LocalizedNames>
         <LocalizedName description="CDS Default Publisher" languagecode="1033" />
       </LocalizedNames>
       <Descriptions />
       <EMailAddress xsi:nil="true"></EMailAddress>
       <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
-      <CustomizationPrefix>cr3cb</CustomizationPrefix>
-      <CustomizationOptionValuePrefix>55685</CustomizationOptionValuePrefix>
+      <CustomizationPrefix>cr657</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>37200</CustomizationOptionValuePrefix>
       <Addresses>
         <Address>
           <AddressNumber>1</AddressNumber>
@@ -78,7 +78,7 @@
       </Addresses>
     </Publisher>
     <RootComponents>
-      <RootComponent type="300" schemaName="cr3cb_maketeamscall_f2a4a" behavior="0" />
+      <RootComponent type="300" schemaName="new_pipelinetestapp_3ced7" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
